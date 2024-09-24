@@ -1,0 +1,10 @@
+"","richness vars","richness effect","richness estimate","richness stderr","richness relativeimportance","abundance vars","abundance effect","abundance estimate","abundance stderr","abundance relativeimportance","evenness vars","evenness effect","evenness estimate","evenness stderr","evenness relativeimportance"
+"1","(Intercept)","(Intercept)",2.02395842343997,0.0469452177888158,NA,"(Intercept)","(Intercept)",3.70356508371509,0.111961306473631,NA,"(Intercept)","(Intercept)",-2.52713563441557,0.0775878915118628,NA
+"2","s(depth)","depth",NA,NA,1,"s(depth)","depth",NA,NA,0.893420328081874,"s(depth)","depth",NA,NA,0.727914444741216
+"3","s(slope)","slope",NA,NA,0.73126002931131,"s(slope)","slope",NA,NA,0.49150585071391,"s(slope)","slope",NA,NA,0.657422908192621
+"4","s(disttoshore)","disttoshore",NA,NA,0,"s(disttoshore)","disttoshore",NA,NA,0.470967559170576,"s(disttoshore)","disttoshore",NA,NA,0
+"5","habitat","habitatRock",1.04316167129304,0.0723060257001661,1,"habitat","habitatRock",1.15613677605572,0.174422212026084,1,"habitat","habitatRock",-0.744596458097642,0.146106325564217,1
+"6","habitat","habitatSand",-0.608704712448459,0.0615063974337363,1,"habitat","habitatSand",-1.09707653880202,0.12423397261609,1,"habitat","habitatSand",0.758857201383353,0.0925658754508338,1
+"7","island","islandST",0.00845943831218615,0.0297284292976588,0.114934759976096,"island","islandST",0.10597088515204,0.126342779225948,0.587128853069478,"island","islandST",0,0,0
+"8","s(Season, bs = ""cc"", k = -1)","s(Season)",NA,NA,0.521318284418501,"s(Season, bs = ""cc"", k = -1)","s(Season)",NA,NA,0.259738838814794,"s(Season, bs = ""cc"", k = -1)","s(Season)",NA,NA,0.328190889089763
+"9","s(Season, by = island, bs = ""cc"", k = -1)","s(Season, by = island)",NA,NA,0.590432614857131,"s(Season, by = island, bs = ""cc"", k = -1)","s(Season, by = island)",NA,NA,0.71206175608938,"s(Season, by = island, bs = ""cc"", k = -1)","s(Season, by = island)",NA,NA,0.779133149481564
