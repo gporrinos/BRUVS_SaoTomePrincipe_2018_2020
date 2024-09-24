@@ -1,0 +1,227 @@
+species_original,species,speciessimple,specieslist,idlevel,type,family
+Jellyfish,Cnidaria,Cnidaria,Cnidaria,Phylum,Cnidarian,Cnidarian
+Alpheidae,Alpheidae,Alpheidae,Alpheidae,Family,Crustacean,Alpheidae
+Corystes cassivelaunus,Corystes cassivelaunus,Corystes cassivelaunus,Corystes cassivelaunus,Species,Crustacean,Corystidae
+Emerita sp. ,Emerita sp. ,Emerita sp. ,Emerita sp. ,Genus,Crustacean,Hippidae
+Crustacean,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Crustacean1,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Crustacean2,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Crustacean3,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Decapoda,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Round Crustacean,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Spider crab,Decapoda,Decapoda,Decapoda,Order,Crustacean,NA
+Paguroidea,Paguroidea,Paguroidea,Paguroidea,Superfamily,Crustacean,Paguroidea
+Stomatopoda,Stomatopoda,Stomatopoda,Stomatopoda,Order,Crustacean,Stomatopoda
+Ctenophora,Ctenophora,Ctenophora,Ctenophora,Phylum,Ctenophora,NA
+Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus galapagensis,Species,Elasmobranch,Carcharhinidae
+Carcharhinus limbatus,Carcharhinus limbatus,Carcharhinus limbatus,Carcharhinus limbatus,Species,Elasmobranch,Carcharhinidae
+Negaprion brevirostris,Negaprion brevirostris,Negaprion brevirostris,Negaprion brevirostris,Species,Elasmobranch,Carcharhinidae
+Hypanus rudis,Hypanus rudis,Hypanus rudis,Hypanus rudis,Species,Elasmobranch,Dasyatidae
+Taeniurops grabatus,Taeniurops grabatus,Taeniurops grabatus,Taeniurops grabatus,Species,Elasmobranch,Dasyatidae
+Ginglymostoma cirratum,Ginglymostoma cirratum,Ginglymostoma cirratum,Ginglymostoma cirratum,Species,Elasmobranch,Ginglymostomatidae
+Mobula sp.,Mobula sp.,Mobulidae,Mobula sp.,Genus,Elasmobranch,Mobulidae
+Selachimorpha,Selachimorpha,NA,NA,Superorder,Elasmobranch,NA
+Sphyrna lewini,Sphyrna lewini,Sphyrna lewini,Sphyrna lewini,Species,Elasmobranch,Sphyrnidae
+Echinoidea,Echinoidea,Echinoidea,Echinoidea,Order,Invertebrate,Echinoidea
+Mollusca,Mollusca,Mollusca,Mollusca,Phylum,Invertebrate,Echinoidea
+Asteroidea,Asteroidea,Asteroidea,Asteroidea,Order,Invertebrate,NA
+Polychaete,Polychaete,Polychaete,Polychaete,Phylum,Invertebrate,Polychaete
+Mollusca,Mollusca,Mollusca,Mollusca,Phylum,Mollusc,NA
+Nudibranchia,Nudibranchia,Nudibranchia,Nudibranchia,Suborder,Mollusc,Nudibranchia
+Octopus sp.,Octopus sp.,Octopus sp.,Octopus sp.,Genus,Mollusc,Octopodidae
+Octopus vulgaris,Octopus vulgaris,Octopus sp.,Octopus sp.,Genus,Mollusc,Octopodidae
+Sepia sp.,Sepia sp.,Sepia sp.,Sepia sp.,Genus,Mollusc,Sepiidae
+Invertebrate,Invertebrate,Invertebrate,Invertebrate,Phylum,NA,NA
+Chelonia mydas,Chelonia mydas,Chelonia mydas,Chelonia mydas,Species,Sea turtle,Cheloniidae
+Chelonia mydas (juv),Chelonia mydas,Chelonia mydas,Chelonia mydas,Species,Sea turtle,Cheloniidae
+Cheloniidae,Cheloniidae,Cheloniidae,Cheloniidae,Family,Sea turtle,Cheloniidae
+Eretmochelys imbricata,Eretmochelys imbricata,Eretmochelys imbricata,Eretmochelys imbricata,Species,Sea turtle,Cheloniidae
+Eretmochelys imbricata (juv),Eretmochelys imbricata,Eretmochelys imbricata,Eretmochelys imbricata,Species,Sea turtle,Cheloniidae
+Acanthurus monroviae,Acanthurus monroviae,Acanthurus monroviae,Acanthurus monroviae,Species,Teleost,Acanthuridae
+Prionurus biafraensis,Prionurus biafraensis,Prionurus biafraensis,Prionurus biafraensis,Species,Teleost,Acanthuridae
+Phaeoptyx pigmentaria,Phaeoptyx pigmentaria,Phaeoptyx pigmentaria,Phaeoptyx pigmentaria,Species,Teleost,Apogonidae
+Atherina lopeziana,Atherina lopeziana,Atherina lopeziana,Atherina lopeziana,Species,Teleost,Atherinidae
+Aulostomus notIDd,NA,NA,NA,Genus,Teleost,Aulostomidae
+Aulostomus strigosus,Aulostomus strigosus,Aulostomus strigosus,Aulostomus strigosus,Species,Teleost,Aulostomidae
+Balistes capriscus,Balistes capriscus,Balistes capriscus,Balistes capriscus,Species,Teleost,Balistidae
+Balistes punctatus,Balistes punctatus,Balistes punctatus,Balistes punctatus,Species,Teleost,Balistidae
+Balistidae,Balistidae,NA,NA,Family,Teleost,Balistidae
+Canthidermis sufflamen,Canthidermis sufflamen,Canthidermis sufflamen,Canthidermis sufflamen,Species,Teleost,Balistidae
+Melichthys niger,Melichthys niger,Melichthys niger,Melichthys niger,Species,Teleost,Balistidae
+Ablennes hians,Ablennes hians,Ablennes hians,Ablennes hians,Species,Teleost,Belonidae
+Blenniidae,Blenniidae,NA,NA,Family,Teleost,Blenniidae
+Hypleurochilus aequipinnis,Hypleurochilus aequipinnis,Hypleurochilus aequipinnis,Hypleurochilus aequipinnis,Species,Teleost,Blenniidae
+Microlipophrys velifer,Microlipophrys velifer,Microlipophrys velifer,Microlipophrys velifer,Species,Teleost,Blenniidae
+Ophioblennius atlanticus,Ophioblennius atlanticus,Ophioblennius atlanticus,Ophioblennius atlanticus,Species,Teleost,Blenniidae
+Pleuronectiformes,Bothus sp.,Bothus sp.,NA,Order,Teleost,Bothidae
+Bothidae ,Bothus sp.,Bothus sp.,NA,Family,Teleost,Bothidae
+Bothus guibei,Bothus guibei,Bothus sp.,Bothus guibei,Species,Teleost,Bothidae
+Bothus lunatus,Bothus lunatus,Bothus sp.,Bothus lunatus,Species,Teleost,Bothidae
+Bothus podas,Bothus podas,Bothus sp.,Bothus podas,Species,Teleost,Bothidae
+Bothus sp.,Bothus sp.,Bothus sp.,NA,Genus,Teleost,Bothidae
+Alectis alexandrina,Alectis alexandrina,Alectis alexandrina,Alectis alexandrina,Species,Teleost,Carangidae
+Alectis ciliaris,Alectis ciliaris,Alectis ciliaris,Alectis ciliaris,Species,Teleost,Carangidae
+Carangidae,Carangidae,NA,NA,Family,Teleost,Carangidae
+Carangoides bartholomaei,Caranx bartholomaei,Caranx bartholomaei,Caranx bartholomaei,Species,Teleost,Carangidae
+Caranx crysos,Caranx crysos,Caranx crysos,Caranx crysos,Species,Teleost,Carangidae
+Caranx fischeri,Caranx fischeri,Caranx fischeri,Caranx fischeri,Species,Teleost,Carangidae
+Caranx hippos,Caranx hippos,Caranx hippos,Caranx hippos,Species,Teleost,Carangidae
+Caranx latus,Caranx latus,Caranx latus,Caranx latus,Species,Teleost,Carangidae
+Caranx lugubris,Caranx lugubris,Caranx lugubris,Caranx lugubris,Species,Teleost,Carangidae
+Caranx sp.,Caranx sp.,NA,NA,Genus,Teleost,Carangidae
+Decapterus macarellus,Decapterus macarellus,Decapterus macarellus,Decapterus macarellus,Species,Teleost,Carangidae
+Decapterus punctatus,Decapterus punctatus,Decapterus punctatus,Decapterus punctatus,Species,Teleost,Carangidae
+Decapterus sp.,Decapterus sp.,NA,NA,Genus,Teleost,Carangidae
+Elagatis bipinnulata,Elagatis bipinnulata,Elagatis bipinnulata,Elagatis bipinnulata,Species,Teleost,Carangidae
+Selar crumenopthalmus,Selar crumenopthalmus,Selar crumenopthalmus,Selar crumenopthalmus,Species,Teleost,Carangidae
+Seriola rivoliana,Seriola rivoliana,Seriola rivoliana,Seriola rivoliana,Species,Teleost,Carangidae
+Trachinotus ovatus,Trachinotus ovatus,Trachinotus ovatus,Trachinotus ovatus,Species,Teleost,Carangidae
+Chaetodon robustus,Chaetodon robustus,Chaetodon robustus,Chaetodon robustus,Species,Teleost,Chaetodontidae
+Cirrhitus atlanticus,Cirrhitus atlanticus,Cirrhitus atlanticus,Cirrhitus atlanticus,Species,Teleost,Cirrhitidae
+Clupeidae,Clupeidae,NA,NA,Family,Teleost,Clupeidae
+Sardinella sp.,Sardinella sp.,Sardinella sp.,Sardinella sp.,Genus,Teleost,Clupeidae
+Ariosoma balearicum,Ariosoma balearicum,Ariosoma balearicum,Ariosoma balearicum,Species,Teleost,Congridae
+Heteroconger longissimus,Heteroconger longissimus,Heteroconger longissimus,Heteroconger longissimus,Species,Teleost,Congridae
+Paraconger macrops,Paraconger macrops,Paraconger macrops,Paraconger macrops,Species,Teleost,Congridae
+Dactylopterus volitans,Dactylopterus volitans,Dactylopterus volitans,Dactylopterus volitans,Species,Teleost,Dactylopteridae
+Chilomycterus reticulatus,Chilomycterus reticulatus,Chilomycterus reticulatus,Chilomycterus reticulatus,Species,Teleost,Diodontidae
+Chilomycterus spinosus mauretanicus,Chilomycterus spinosus mauretanicus,Chilomycterus spinosus mauretanicus,Chilomycterus spinosus mauretanicus,Species,Teleost,Diodontidae
+Diodon holocanthus,Diodon holocanthus,Diodon holocanthus,Diodon holocanthus,Species,Teleost,Diodontidae
+Diodon hystrix,Diodon hystrix,Diodon hystrix,Diodon hystrix,Species,Teleost,Diodontidae
+Diodon sp.,Diodon sp.,NA,NA,Genus,Teleost,Diodontidae
+Echeneis naucrates,Echeneis naucrates,Echeneis naucrates,Echeneis naucrates,Species,Teleost,Echeneidae
+Ephippus goreensis,Ephippus goreensis,Ephippus goreensis,Ephippus goreensis,Species,Teleost,Ephippidae
+Fistularia tabacaria,Fistularia tabacaria,Fistularia tabacaria,Fistularia tabacaria,Species,Teleost,Fistulariidae
+Eucinostomus melanopterus,Eucinostomus melanopterus,Eucinostomus melanopterus,Eucinostomus melanopterus,Species,Teleost,Gerreidae
+Gnatholepis thompsoni,Gnatholepis thompsoni,Gnatholepis thompsoni,Gnatholepis thompsoni,Species,Teleost,Gobiidae
+Gobiidae,Gobiidae,NA,NA,Family,Teleost,Gobiidae
+Gobius rubropunctatus,Gobius rubropunctatus,Gobius rubropunctatus,Gobius rubropunctatus,Species,Teleost,Gobiidae
+Gobius sp.,Gobius sp.,NA,NA,Genus,Teleost,Gobiidae
+Parakuhlia macrophthalmus,Parakuhlia macrophthalmus,Parakuhlia macrophthalmus,Parakuhlia macrophthalmus,Species,Teleost,Haemulidae
+Pomadasys incisus,Pomadasys incisus,Pomadasys incisus,Pomadasys incisus,Species,Teleost,Haemulidae
+Holocentrus adscensionis,Holocentrus adscensionis,Holocentrus adscensionis,Holocentrus adscensionis,Species,Teleost,Holocentridae
+Myripristis jacobus,Myripristis jacobus,Myripristis jacobus,Myripristis jacobus,Species,Teleost,Holocentridae
+Sargocentron hastatum,Sargocentron hastatum,Sargocentron hastatum,Sargocentron hastatum,Species,Teleost,Holocentridae
+Kyphosus incisor,Kyphosus incisor,Kyphosus incisor,Kyphosus incisor,Species,Teleost,Kyphosidae
+Kyphosus sectatrix,Kyphosus sectatrix,Kyphosus sectatrix,Kyphosus sectatrix,Species,Teleost,Kyphosidae
+Kyphosus sp.,Kyphosus sp.,NA,NA,Genus,Teleost,Kyphosidae
+Bodianus pulchellus,Bodianus pulchellus,Bodianus pulchellus,Bodianus pulchellus,Species,Teleost,Labridae
+Bodianus speciosus,Bodianus speciosus,Bodianus speciosus,Bodianus speciosus,Species,Teleost,Labridae
+Bodianus speciosus (juv),Bodianus speciosus,Bodianus speciosus,Bodianus speciosus,Species,Teleost,Labridae
+Clepticus africanus,Clepticus africanus,Clepticus africanus,Clepticus africanus,Species,Teleost,Labridae
+Coris atlantica,Coris atlantica,Coris atlantica,Coris atlantica,Species,Teleost,Labridae
+Coris atlantica (juv),Coris atlantica,Coris atlantica,Coris atlantica,Species,Teleost,Labridae
+Labridae,Labridae,NA,NA,Family,Teleost,Labridae
+Thalassoma ascensionis,Thalassoma ascensionis,Thalassoma ascensionis,Thalassoma ascensionis,Species,Teleost,Labridae
+Thalassoma newtoni,Thalassoma newtoni,Thalassoma newtoni,Thalassoma newtoni,Species,Teleost,Labridae
+Thalassoma newtoni (juv),Thalassoma newtoni,Thalassoma newtoni,Thalassoma newtoni,Species,Teleost,Labridae
+Thalassoma pavo,Thalassoma pavo,Thalassoma pavo,Thalassoma pavo,Species,Teleost,Labridae
+Xyrichtys novacula,Xyrichtys novacula,Xyrichtys novacula,Xyrichtys novacula,Species,Teleost,Labridae
+Labrisomus nuchipinnis,Labrisomus nuchipinnis,Labrisomus nuchipinnis,Labrisomus nuchipinnis,Species,Teleost,Labrisomidae
+Lethrinus atlanticus,Lethrinus atlanticus,Lethrinus atlanticus,Lethrinus atlanticus,Species,Teleost,Lethrinidae
+Lethrinus atlanticus (juvenile),Lethrinus atlanticus,Lethrinus atlanticus,Lethrinus atlanticus,Species,Teleost,Lethrinidae
+Apsilus fuscus,Apsilus fuscus,Apsilus fuscus,Apsilus fuscus,Species,Teleost,Lutjanidae
+Lutjanus agennes,Lutjanus agennes,Lutjanus agennes,Lutjanus agennes,Species,Teleost,Lutjanidae
+Lutjanus dentatus,Lutjanus dentatus,Lutjanus dentatus,Lutjanus dentatus,Species,Teleost,Lutjanidae
+Lutjanus endecacanthus,Lutjanus endecacanthus,Lutjanus endecacanthus,Lutjanus endecacanthus,Species,Teleost,Lutjanidae
+Lutjanus fulgens,Lutjanus fulgens,Lutjanus fulgens,Lutjanus fulgens,Species,Teleost,Lutjanidae
+Lutjanus goreensis,Lutjanus goreensis,Lutjanus goreensis,Lutjanus goreensis,Species,Teleost,Lutjanidae
+Lutjanus griseus,Lutjanus griseus,Lutjanus griseus,Lutjanus griseus,Species,Teleost,Lutjanidae
+Lutjanus sp.,Lutjanus sp.,NA,NA,Genus,Teleost,Lutjanidae
+Megalops atlanticus,Megalops atlanticus,Megalops atlanticus,Megalops atlanticus,Species,Teleost,Megalopidae
+Aluterus heudelotii,Aluterus heudelotii,Aluterus heudelotii,Aluterus heudelotii,Species,Teleost,Monacanthidae
+Aluterus scriptus,Aluterus scriptus,Aluterus scriptus,Aluterus scriptus,Species,Teleost,Monacanthidae
+Aluterus sp.,Aluterus sp.,NA,NA,Genus,Teleost,Monacanthidae
+Cantherhines macrocerus,Cantherhines macrocerus,Cantherhines macrocerus,Cantherhines macrocerus,Species,Teleost,Monacanthidae
+Cantherhines pardalis,Cantherhines pardalis,Cantherhines pardalis,Cantherhines pardalis,Species,Teleost,Monacanthidae
+Cantherhines pullus,Cantherhines pullus,Cantherhines pullus,Cantherhines pullus,Species,Teleost,Monacanthidae
+Cantherhines sp.,Cantherhines sp.,NA,NA,Genus,Teleost,Monacanthidae
+Monacanthidae,Monacanthidae,NA,NA,Family,Teleost,Monacanthidae
+Stephanolepis hispidus,Stephanolepis hispidus,Stephanolepis hispidus,Stephanolepis hispidus,Species,Teleost,Monacanthidae
+Mullidae,Mullidae,NA,NA,Family,Teleost,Mullidae
+Mulloidichthys martinicus,Mulloidichthys martinicus,Mulloidichthys martinicus,Mulloidichthys martinicus,Species,Teleost,Mullidae
+Mullus surmuletus,Mullus surmuletus,Mullus surmuletus,Mullus surmuletus,Species,Teleost,Mullidae
+Pseudupeneus prayensis,Pseudupeneus prayensis,Pseudupeneus prayensis,Pseudupeneus prayensis,Species,Teleost,Mullidae
+Echidna peli,Echidna peli,Echidna peli,Echidna peli,Species,Teleost,Muraenidae
+Enchelycore nigricans,Enchelycore nigricans,Enchelycore nigricans,Enchelycore nigricans,Species,Teleost,Muraenidae
+Gymnothorax afer,Gymnothorax afer,Gymnothorax afer,Gymnothorax afer,Species,Teleost,Muraenidae
+Gymnothorax vicinus,Gymnothorax vicinus,Gymnothorax vicinus,Gymnothorax vicinus,Species,Teleost,Muraenidae
+Muraena melanotis,Muraena melanotis,Muraena melanotis,Muraena melanotis,Species,Teleost,Muraenidae
+Muraena robusta,Muraena robusta,Muraena robusta,Muraena robusta,Species,Teleost,Muraenidae
+Muraenidae,Muraenidae,NA,NA,Family,Teleost,Muraenidae
+Blenniidae/Gobiidae,NA,NA,NA,NA,Teleost,NA
+NAfish,NA,NA,NA,NA,Teleost,NA
+NA eel fry,NA,NA,NA,NA,Teleost,NA
+NA_dist,NA,NA,NA,NA,Teleost,NA
+NA_small,NA,NA,NA,NA,Teleost,NA
+NA1,NA,NA,NA,NA,Teleost,NA
+NA2,NA,NA,NA,NA,Teleost,NA
+NA3,NA,NA,NA,NA,Teleost,NA
+NA4,NA,NA,NA,NA,Teleost,NA
+NA5,NA,NA,NA,NA,Teleost,NA
+NA6,NA,NA,NA,NA,Teleost,NA
+NA7,NA,NA,NA,NA,Teleost,NA
+Myrichthys pardalis,Myrichthys pardalis,Myrichthys pardalis,Myrichthys pardalis,Species,Teleost,Ophichthidae
+Ophichthus ophis,Ophichthus ophis,Ophichthus ophis,Ophichthus ophis,Species,Teleost,Ophichthidae
+Ophichthus rufus,Ophichthus rufus,Ophichthus rufus,Ophichthus rufus,Species,Teleost,Ophichthidae
+Ophichthus sp.,Ophichthus sp.,NA,NA,Genus,Teleost,Ophichthidae
+Pisodonophis semicinctus,Pisodonophis semicinctus,Pisodonophis semicinctus,Pisodonophis semicinctus,Species,Teleost,Ophichthidae
+Acanthostracion guineensis,Acanthostracion guineensis,Acanthostracion guineensis,Acanthostracion guineensis,Species,Teleost,Ostraciidae
+Acanthostracion notacanthus,Acanthostracion notacanthus,Acanthostracion notacanthus,Acanthostracion notacanthus,Species,Teleost,Ostraciidae
+Acanthostracion sp.,Acanthostracion sp.,NA,NA,Genus,Teleost,Ostraciidae
+Holacanthus africanus,Holacanthus africanus,Holacanthus africanus,Holacanthus africanus,Species,Teleost,Pomacanthidae
+Holacanthus africanus (juv),Holacanthus africanus,Holacanthus africanus,Holacanthus africanus,Species,Teleost,Pomacanthidae
+Abudefduf hoefleri,Abudefduf hoefleri,Abudefduf hoefleri,Abudefduf hoefleri,Species,Teleost,Pomacentridae
+Abudefduf saxatilis,Abudefduf saxatilis,Abudefduf saxatilis,Abudefduf saxatilis,Species,Teleost,Pomacentridae
+Abudefduf sp.,Abudefduf sp.,NA,NA,Genus,Teleost,Pomacentridae
+Abudefduf taurus,Abudefduf taurus,Abudefduf taurus,Abudefduf taurus,Species,Teleost,Pomacentridae
+Chromis cadenati,Chromis cadenati,Chromis cadenati,Chromis cadenati,Species,Teleost,Pomacentridae
+Chromis multilineata,Chromis multilineata,Chromis multilineata,Chromis multilineata,Species,Teleost,Pomacentridae
+Chromis sp.,Chromis sp.,NA,NA,Species,Teleost,Pomacentridae
+Microspathodon frontatus,Microspathodon frontatus,Microspathodon frontatus,Microspathodon frontatus,Species,Teleost,Pomacentridae
+Pomacentridae,Pomacentridae,NA,NA,Family,Teleost,Pomacentridae
+Stegastes imbricatus,Stegastes imbricatus,Stegastes imbricatus,Stegastes imbricatus,Species,Teleost,Pomacentridae
+Heteropriacanthus cruentatus,Heteropriacanthus cruentatus,Heteropriacanthus cruentatus,Heteropriacanthus cruentatus,Species,Teleost,Priacanthidae
+Nicholsina usta,Nicholsina usta,Nicholsina usta,Nicholsina usta,Species,Teleost,Scaridae
+Scaridae,Scaridae,NA,NA,Family,Teleost,Scaridae
+Scarus hoefleri,Scarus hoefleri,Scarus hoefleri,Scarus hoefleri,Species,Teleost,Scaridae
+Sparisoma choati,Sparisoma choati,Sparisoma choati,Sparisoma choati,Species,Teleost,Scaridae
+Sparisoma choati (female),Sparisoma choati,Sparisoma choati,Sparisoma choati,Species,Teleost,Scaridae
+Sparisoma rubripinne,Sparisoma rubripinne,Sparisoma rubripinne,Sparisoma rubripinne,Species,Teleost,Scaridae
+Sparisoma sp.,Sparisoma sp.,NA,NA,Genus,Teleost,Scaridae
+Acanthocybium solandri,Acanthocybium solandri,Acanthocybium solandri,Acanthocybium solandri,Species,Teleost,Scombridae
+Auxis rochei,Auxis rochei,Auxis rochei,Auxis rochei,Species,Teleost,Scombridae
+Auxis thazard,Auxis thazard,Auxis thazard,Auxis thazard,Species,Teleost,Scombridae
+Katsuwonus pelamis,Katsuwonus pelamis,Katsuwonus pelamis,Katsuwonus pelamis,Species,Teleost,Scombridae
+Scomber colias,Scomber colias,Scomber colias,Scomber colias,Species,Teleost,Scombridae
+Scomberomorus tritor,Scomberomorus tritor,Scomberomorus tritor,Scomberomorus tritor,Species,Teleost,Scombridae
+Scombridae,Scombridae,NA,NA,Family,Teleost,Scombridae
+Scorpaena laevis,Scorpaena laevis,Scorpaena laevis,Scorpaena laevis,Species,Teleost,Scorpaenidea
+Cephalopholis nigri,Cephalopholis nigri,Cephalopholis nigri,Cephalopholis nigri,Species,Teleost,Serranidae
+Cephalopholis sp.,Cephalopholis sp.,NA,NA,Genus,Teleost,Serranidae
+Cephalopholis taeniops,Cephalopholis taeniops,Cephalopholis taeniops,Cephalopholis taeniops,Species,Teleost,Serranidae
+Epinephelus adscensionis,Epinephelus adscensionis,Epinephelus adscensionis,Epinephelus adscensionis,Species,Teleost,Serranidae
+Epinephelus aeneus,Epinephelus aeneus,Epinephelus aeneus,Epinephelus aeneus,Species,Teleost,Serranidae
+Epinephelus costae,Epinephelus costae,Epinephelus costae,Epinephelus costae,Species,Teleost,Serranidae
+Epinephelus notIDd,Epinephelus notIDd,NA,NA,Species,Teleost,Serranidae
+Paranthias furcifer,Paranthias furcifer,Paranthias furcifer,Paranthias furcifer,Species,Teleost,Serranidae
+Rypticus saponaceus,Rypticus saponaceus,Rypticus saponaceus,Rypticus saponaceus,Species,Teleost,Serranidae
+Serranidae,Serranidae,NA,NA,Family,Teleost,Serranidae
+Serranus accraensis,Serranus accraensis,Serranus accraensis,Serranus accraensis,Species,Teleost,Serranidae
+Serranus cabrilla,Serranus cabrilla,Serranus cabrilla,Serranus cabrilla,Species,Teleost,Serranidae
+Serranus pulcher,Serranus pulcher,Serranus pulcher,Serranus pulcher,Species,Teleost,Serranidae
+Serranus sp.,Serranus sp.,NA,NA,Genus,Teleost,Serranidae
+Boops boops,Boops boops,Boops boops,Boops boops,Species,Teleost,Sparidae
+Pagrus caeruleostictus,Pagrus caeruleostictus,Pagrus caeruleostictus,Pagrus caeruleostictus,Species,Teleost,Sparidae
+Pagrus pagrus,Pagrus pagrus,Pagrus pagrus,Pagrus pagrus,Species,Teleost,Sparidae
+Spicara melanurus,Spicara melanurus,Spicara melanurus,Spicara melanurus,Species,Teleost,Sparidae
+Spicara nigricauda,Spicara nigricauda,Spicara nigricauda,Spicara nigricauda,Species,Teleost,Sparidae
+Spicara sp.,Spicara sp.,NA,NA,Genus,Teleost,Sparidae
+Sphyraena barracuda,Sphyraena barracuda,Sphyraena barracuda,Sphyraena barracuda,Species,Teleost,Sphyraenidae
+Hippocampus algiricus,Hippocampus algiricus,Hippocampus algiricus,Hippocampus algiricus,Species,Teleost,Syngnathidae
+Microphis aculeatus,Microphis aculeatus,Microphis aculeatus,Microphis aculeatus,Species,Teleost,Syngnathidae
+Canthigaster supramacula,Canthigaster supramacula,Canthigaster supramacula,Canthigaster supramacula,Species,Teleost,Tetraodontidae
+Lagocephalus laevigatus,Lagocephalus laevigatus,Lagocephalus laevigatus,Lagocephalus laevigatus,Species,Teleost,Tetraodontidae
+Sphoeroides marmoratus,Sphoeroides marmoratus,Sphoeroides marmoratus,Sphoeroides marmoratus,Species,Teleost,Tetraodontidae
+Trachinus lineolatus,Trachinus lineolatus,Trachinus lineolatus,Trachinus lineolatus,Species,Teleost,Trachinidae
+Uranoscopus polli,Uranoscopus polli,Uranoscopus polli,Uranoscopus polli,Species,Teleost,Uranoscopidae
